@@ -1,0 +1,26 @@
+
+#card{
+    border: double blue 4px;
+    
+    border-radius: 10px;
+    flex-direction: column;
+    box-shadow: 5px 10px black;
+    width: 10em;
+    padding: 20px;
+    background-color: salmon;
+    margin: auto;
+    background-image: linear-gradient(red, blue);
+  color: white;
+}
+img{
+    display: block;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+#app{
+    display: flex;
+}
+body{
+    background-image: linear-gradient(red, yellow);
+}   
